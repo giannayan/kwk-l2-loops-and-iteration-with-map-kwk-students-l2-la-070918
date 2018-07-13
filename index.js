@@ -3,8 +3,8 @@ function lowerCase(str){
 return str.toLowerCase();
 }
 
-function lowerCaseStudentNames(names) {
+function lowerCaseStudentNames(studentsNames) {
   return students.map(lowerCase)
 }
 
-var names = ['Adele', 'Beyoncé', 'Lady', 'Madonna', 'Rihanna', 'Taylor']
+var studentsNames = ['Adele', 'Beyoncé', 'Lady', 'Madonna', 'Rihanna', 'Taylor']
